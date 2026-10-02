@@ -4,8 +4,7 @@ Sou estudante de ciência de dados e inteligência artificial pela Pontifícia U
 
 ##
 
-### 💻 Coding Languages
-<div style="display: inline_block"><br>
+<img src="imgs/skills.gif" height="20" alt="skills"/> Linguagens e ferramentas:<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
